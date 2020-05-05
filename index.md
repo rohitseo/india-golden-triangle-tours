@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Nobody would portray an outing to India as a basic, simple thing. The second you leave the cutting edge air terminal in Delhi, unmistakably you are a long way from anything you're utilized to — and that is accurately the point. You've tried sincerely and carried on reasonably your whole life, and your brilliant years are the ideal time to investigate something somewhat outside of your usual range of familiarity: India's Golden Triangle. With a lot of time to mark off this basin list trip, you're additionally allowed to investigate at your own pace, which is useful in India. 
 
-You can use the [editor on GitHub](https://github.com/rohitseo/india-golden-triangle-tours/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+So what is the Golden Triangle? It's one of the most well known visitor circuits in India, associating three significant goals by rail in the harsh estimate of a triangle. It likewise happens to join a portion of India's most well known landmarks and goals in a single agenda, making it unfathomably famous and generally simple to design. You'd accomplish well to work with a private visit organization on the off chance that you'd prefer to ensure your solace and make making sure about train tickets simple. It can help take out a portion of the unavoidable pressure you're probably going to feel once you've gone to the ground in India. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rohitseo/india-golden-triangle-tours/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Golden Triangle begins in Delhi, where you'll discover old and new India one next to the other in surprising differentiations. There are the frantic markets and Mughal-time milestones of Old Delhi, excellent qawwali functions at Hazrat Nizamuddin, and the remains of Qutub Minar all harkening back in time while extravagance shopping centers pepper the well off locale and hip bistros pack enchanting Hauz Khas Village. From that point, a quick train to Agra puts you at the foot of the notable Taj Mahal — one of the most celebrated landmarks on the planet. When you've had your fill, it's set for the Pink City of Jaipur in Rajasthan to splash of its charms.
